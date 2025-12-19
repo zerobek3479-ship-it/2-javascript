@@ -156,11 +156,45 @@ background-image: url('/images/img1.png');
   background-color: #EDA62A;
   border:1px solid #1C1D1D;
   margin-left: 10px;
+  margin-top: 10px; 
 }
 .imggggg{
   position: absolute;
   margin-left: 1220px;
   margin-top: 540px;
+}
+.liner{
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.nima{
+  font-size: 50px;
+  font-weight: 700;
+  color: #9F86D9;
+}
+.nimam{
+  font-size: 18px;
+  font-weight: 400;
+}
+.btnss{
+  margin-left: 920px;
+  margin-top: 507px;  
+  position: absolute;
+}
+.btn_one{
+  background-color: #fff;
+  width: 167px;
+  height: 53px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.btn_two{
+  background-color: transparent;
+  width: 129px;
+  height: 23px;
+  border: none;
 }
 .wrapper_card{
 padding: 0px 243px;
